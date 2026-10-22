@@ -50,13 +50,13 @@ O sistema permite cadastrar, listar, atualizar e excluir usuários e eventos cli
 ![get](/docs/listareventos.png)
 
 ``` mudar/atualizar eventos ```
-![put](/docs/putEventos.png)
+![put](/docs/puteventos.png)
 
 ``` deletar eventos ``` 
-![del](/docs/DELeventos.png)
+![del](/docs/deleventos.png)
 
 ``` eventos resumo e média ```
-![res](/docs/resumoEventos.png)
+![res](/docs/resumoeventos.png)
 
 ``` login de usuários ```
-![login](/docs/loginUsuarios.png)
+![login](/docs/loginusuarios.png)
