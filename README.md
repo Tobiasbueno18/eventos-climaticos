@@ -34,20 +34,20 @@ O sistema permite cadastrar, listar, atualizar e excluir usuários e eventos cli
 
 ``` listar usuários ```
 
-![listar](/docs/listaUsuarios.png)
+![listar](/docs/listausuarios.png)
 
 ``` servidor ```
 
 ![servidor](/docs/ServidorThunder.png)
 
 ``` mudar/atualizar usuários ```
-![put](/docs/putUsuario.png)
+![put](/docs/putusuario.png)
 
 ``` deletar usuários ```
-![del](/docs/DELusuarios.png)
+![del](/docs/delusuarios.png)
 
 ``` listar eventos ``` 
-![get](/docs/listarEventos.png)
+![get](/docs/listareventos.png)
 
 ``` mudar/atualizar eventos ```
 ![put](/docs/putEventos.png)
